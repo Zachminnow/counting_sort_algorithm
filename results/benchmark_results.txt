@@ -1,0 +1,19 @@
+Experiment 1
+n = 10,000,000
+k = 100
+Time = 0.0728345 seconds
+
+Experiment 2
+n = 10,000,000
+k = 1000
+Time = 0.1072941 seconds
+
+Experiment 3
+n = 10,000,000
+k = 10000
+Time = 0.1938478 seconds
+
+Experiment 4
+n = 10,000,00
+k = 100000
+Time = 0.2990545 seconds
